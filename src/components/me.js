@@ -1,8 +1,8 @@
 import React from "react";
-import "../styles/me.css";
+import "../styles/component.css";
 function  Me(){
     return (
-        <div className="comp" ></div>
+        <div className="components" ></div>
     );
 }
 
